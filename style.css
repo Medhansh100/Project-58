@@ -1,0 +1,194 @@
+body {
+    text-align: center;
+    text-shadow: 30px;
+    background-color: aqua;
+}
+.menu{
+    font-family: 'Pattaya', sans-serif;
+    list-style:none;
+    float: left;
+    top:20px;
+    right:40px;
+    cursor: pointer;
+    color:black;
+}
+
+#h1 {
+    font-size: 45px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h2 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#p1 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize
+}
+
+#h3 {
+    font-size: 30px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h4 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#p1 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize
+}
+
+#h5 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h6 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#p2 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize
+}
+
+#p3 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize
+}
+
+#p4 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize
+}
+
+#p5 {
+    font-size: 22.5px;
+    font-weight: bold;
+    font-family: Ariel;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#h7 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h8 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h9 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h10 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h11 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#h12 {
+    font-size: 35px;
+    font-family: cursive;
+    font-display: block;
+    font-style: italic;
+    text-decoration-color: aqua;
+    font-kerning: auto;
+}
+
+#img1 {
+    border-style: ridge;
+    border-width: 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+#img2 {
+    border-style: ridge;
+    border-width: 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+#img3 {
+    border-style: ridge;
+    border-width: 15px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
